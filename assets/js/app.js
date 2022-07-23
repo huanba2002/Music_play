@@ -25,7 +25,7 @@ const app = {
             name: 'Cưới thôi',
             singer: 'Masew',
             path: './assets/music/Cưới Thôi  Masiu x Masew.mp3',
-            img: './assets/img/cuoi_thoi.jpg'
+            img: './assets/img/Cuoi_thoi.jpg'
         },
         {
             name: 'Only',
